@@ -1,6 +1,6 @@
 require "translator/version"
 
-module Translator
+class Translator
   # Your code goes here...
   
 end
